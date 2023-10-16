@@ -7,7 +7,7 @@
 
 
 body {
-     background-color: #f4f4f4;
+     background-color: blanchedalmond;
      font-family: Arial, sans-serif;
      padding: 20px;
 }
@@ -16,7 +16,7 @@ body {
 h1 {
      text-align: center;
      margin-bottom: 20px;
-     color: #333;
+     color: black;
 }
 
 
@@ -33,7 +33,7 @@ input[type="text"] {
      width: 50%;
      padding: 10px;
      margin-bottom: 10px;
-     border: 1px solid #ccc;
+     border: 1px solid grey;
      border-radius: 5px;
 }
 
@@ -41,7 +41,7 @@ button {
      display: block;
      width: 50%;
      padding: 10px;
-     background-color: #007BFF;
+     background-color: teal;
      color: #fff;
      border: none;
      border-radius: 5
